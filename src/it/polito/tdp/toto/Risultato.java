@@ -1,6 +1,7 @@
 package it.polito.tdp.toto;
 
-public enum Risultato {
+public enum Risultato { //classe di tipo numerazione che raggruppa un insieme di costanti 
+						//con dei metodo per gestire queste costanti 
 
 	UNO, DUE, ICS;
 

@@ -7,7 +7,8 @@ public class Schedina {
 
 	private int N;
 
-	private List<Risultato> colonna;
+	private List<Risultato> colonna; //oggetto della classe schedina che rappresenta
+									 //un risultato singolo della scedina 
 
 	public Schedina(int N) {
 		this.N = N;

@@ -6,7 +6,8 @@ import java.util.List;
 public class Pronostico {
 
 	private int N;
-	private List<Previsione> colonna;
+	private List<Previsione> colonna; //insieme di risultati possibili dati in input 
+									 // dall'utente
 
 	public Pronostico(int N) {
 		this.N = N;

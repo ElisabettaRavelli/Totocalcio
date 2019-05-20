@@ -3,7 +3,7 @@ package it.polito.tdp.toto;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Previsione {
+public class Previsione { //insieme di valori  
 	
 	private Set<Risultato> valori ;
 	
